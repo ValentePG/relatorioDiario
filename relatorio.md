@@ -167,4 +167,4 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **01/12/24: Iniciando o ano com algumas aulas do curso, corrigindo alguns testes e modificando o script de automação para algo mais dinâmico.**
 
-**02/12/24: Passei o arquivo .md do relatório para um repositório novo, não tava mais fazendo sentido deixar o relatório em um repo de leetcode, até por que irei voltar a utilizar aquele repositório para os exercícios em si.**
+**02/12/24: Passei o arquivo .md do relatório para um repositório novo, não tava mais fazendo sentido deixar o relatório em um repo de leetcode, até por que irei voltar a utilizar aquele repositório para os exercícios em si. Acabei de finalizar algumas aulas do curso sobre: variáveis de ambiente, @ConfigurationProperties e uma ótima aula de profiles, a cabeça ta explodindo mas jaja passa.**
