@@ -1,2 +1,2 @@
-# relatorioDiario
-Relatório de trabalho diário
+# Repositório de relatório diário
+Nada mais, nada menos
