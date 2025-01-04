@@ -170,3 +170,6 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **02/12/24: Passei o arquivo .md do relatório para um repositório novo, não tava mais fazendo sentido deixar o relatório em um repo de leetcode, até por que irei voltar a utilizar aquele repositório para os exercícios em si. Acabei de finalizar algumas aulas do curso sobre: variáveis de ambiente, @ConfigurationProperties e uma ótima aula de profiles, a cabeça ta explodindo mas jaja passa.**
 
 **03/12/24: Comecei um desafio de vaga da UOL, que a professora giuliana bezerra postou a algumas semanas atrás e eu ja tava de olho a algum tempo, ainda não criei o repositório remoto, mas em breve comitarei, o repositório do desafio está aqui [repositório](https://github.com/uolhost/test-backEnd-Java "repositório desafio uol").**
+
+**04/12/24: Hoje foi meu aniversário, acabei me presenteando um dia de descanso, amanhã voltarei ao desafio e a assistir o curso.**
+
