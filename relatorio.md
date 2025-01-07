@@ -176,3 +176,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **05/01/25: Hoje as aulas foram de bean validation e testes parametrizados, o assunto validação eu ja conhecia a algum tempo, mas foi bom para reciclar e fixar, e os testes parametrizados eu ja tinha visto mas ainda não implementado, amanhã mesmo farei a refatoração dos testes.**
 
 **06/01/25: Hoje utilizei a ajuda do gpt para criar uma anotação de validação, onde o campo apenas é válido se pelo menos um atributo estiver preenchido corretamente, sendo assim continuei os testes parametrizados corretamente de acordo comesta validação.**
+
+**07/01/25: Refatorei o projeto do curso com bean validation implementado, refatorei os testes também, amanhã continuarei o projeto de vaga da UOL, hoje farei mais algumas aulas do curso.**
