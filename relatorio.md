@@ -178,3 +178,6 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **06/01/25: Hoje utilizei a ajuda do gpt para criar uma anotação de validação, onde o campo apenas é válido se pelo menos um atributo estiver preenchido corretamente, sendo assim continuei os testes parametrizados corretamente de acordo comesta validação.**
 
 **07/01/25: Refatorei o projeto do curso com bean validation implementado, refatorei os testes também, amanhã continuarei o projeto de vaga da UOL, hoje farei mais algumas aulas do curso.**
+
+**08/01/25: É nitido a evolução que eu obtive do ano passado pra cá, o springboot ja não é mais um desafio, um startup de aplicação ja não demora tanto, é bem legal ver o nível que eu cheguei, mas ainda tem muito trabalho a fazer.**
+
