@@ -181,3 +181,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **08/01/25: É nitido a evolução que eu obtive do ano passado pra cá, o springboot ja não é mais um desafio, um startup de aplicação ja não demora tanto, é bem legal ver o nível que eu cheguei, mas ainda tem muito trabalho a fazer.**
 
+**09/01/25: Começando os trabalhos hoje refatorando o user service e adicionando testes para as novas funcionalidades, logo mais refatorarei os outros 2 projetos do repo spring-boot-das-trincheiras adicionando JPA e os testes la também.**
+
