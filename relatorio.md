@@ -184,3 +184,6 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **09/01/25: Começando os trabalhos hoje refatorando o user service e adicionando testes para as novas funcionalidades, adicionei funcionalidades + JPA no anime service e refatorei todos os testes com as novas funcionalidades.**
 
 **10/01/25: Adicionei testes de repositório com @DataJpaTests, ainda com algumas dúvidas sobre tal, porém deixei tudo passando certinho, vou ter que pesquisar mais sobre esse tipo de teste, inclusive vou olhar no outro repositório onde também fiz esse tipo de teste e tentar comparar.**
+
+**11/01/25: Domain profile adicionado no projeto e alguns testes, faltam apenas os endpoints de leitura para testar, amanhã mesmo eu termino, ou hoje ainda, vamos ver.**
+
