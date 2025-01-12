@@ -187,3 +187,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **11/01/25: Domain profile adicionado no projeto e alguns testes, faltam apenas os endpoints de leitura para testar, amanhã mesmo eu termino, ou hoje ainda, vamos ver.**
 
+**12/01/25: Testes do profile finalizados e refatorados com sucesso, não assisti mais aulas hoje, amanhã eu vou tentar avançar pelo menos umas 20 aulas para compensar.**
+
