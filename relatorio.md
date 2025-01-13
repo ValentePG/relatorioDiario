@@ -189,3 +189,4 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **12/01/25: Testes do profile finalizados e refatorados com sucesso, não assisti mais aulas hoje, amanhã eu vou tentar avançar pelo menos umas 20 aulas para compensar.**
 
+**13/01/25: 20 aulas não foram, mas cheguei na aula 101, faltam apenas 65, hoje aprendi coisas bastante importantes sobre a performance das aplicações, o plano é terminar o curso esta semana.**
