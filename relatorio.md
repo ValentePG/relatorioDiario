@@ -193,3 +193,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **14/01/25: Hoje aprendi um pouco sobre performance melhorando as querys ao BD com a utilização de jpql e @EntityGraphs.**
 
+**15/01/25: Hoje começamos no tema teste de integração com testRestTemplate e Testcontainers, 2 tecnologias bastante conhecidas, confesso que vou ter que revisar mais essas aulas pois foram muitas anotações e bastante detalhes pequenos mas super importantes que eu não poderei deixar passar. Para lembrar disso tudo vai ser uma dor de cabeça.**
+
