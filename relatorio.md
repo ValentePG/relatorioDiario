@@ -197,3 +197,4 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **16/01/25: Hoje Aprendi a utilizar o RestAssured, que é mais uma tecnologia utilizada para testes de integração, o hibernate me deu uma dor de cabeça com o ID sendo auto incrementado de maneira errada, acabei tendo que me virar para resolver alguns testes, mas foi tranquilo, mais uma tecnologia aprendida.**
 
+**17/01/25: Hoje foi dia de revisar sobre o springDoc openApi, ou melhor, swagger, já havia feito um projeto com ele antes, mas rever assuntos é sempre bom para solidificar conhecimentos, também assisti algumas aulas sobre o manuseio de dependências no pom, com projetos parent, que basicamente são utilizados para servir como um "projeto principal" de onde serão herdadas as dependências para os outros serviços.**
