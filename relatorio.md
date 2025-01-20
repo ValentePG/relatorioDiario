@@ -200,3 +200,6 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **17/01/25: Hoje foi dia de revisar sobre o springDoc openApi, ou melhor, swagger, já havia feito um projeto com ele antes, mas rever assuntos é sempre bom para solidificar conhecimentos, também assisti algumas aulas sobre o manuseio de dependências no pom, com projetos parent, que basicamente são utilizados para servir como um "projeto principal" de onde serão herdadas as dependências para os outros serviços.**
 
 **18/01/25: Hoje foi dia de revisar maven profiles, com o plugin failsafe e comecei a estudar novamente o módulo spring security, falamos sobre, roles, proteção de endpoints, algumas anotações muito poderosas como @PreAuthorize entre outras.**
+
+**19/01/25: Ontem eu esqueci de por no relatório que eu voltei a mexer no projeto do desafio de vaga da uol, fiz bastante coisa até, porém ainda tem muito trabalho a fazer, hoje eu revi as aulas de ontem só para não passar em branco, peguei mais leve.**
+
