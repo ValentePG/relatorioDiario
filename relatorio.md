@@ -205,3 +205,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **20/01/25: Hoje foi um dia bastante extenso, tivemos que refatorar todos os testes por causa da autenticação do spring security, ainda não terminamos, terei que refatorar um método PUT que eu acabei tendo que refazer. Essa semana se Deus quiser eu termino o curso.**
 
+**21/01/25: Hoje terminei o módulo de segurança, obviamente que tem muito mais conteúdo sobre para complementar, eu ja possuo outro curso que irei fazer que é um pouco mais completo apenas sobre spring security, e também comecei as aulas sobre openApi contract first, que é basicamente sobre criar a especificação da api antes mesmo do código a partir de um arquivo yaml, achei bem interessante e é uma possível abordagem para próximos projetos.**
+
