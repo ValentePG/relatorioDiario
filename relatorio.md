@@ -203,3 +203,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **19/01/25: Ontem eu esqueci de por no relatório que eu voltei a mexer no projeto do desafio de vaga da uol, fiz bastante coisa até, porém ainda tem muito trabalho a fazer, hoje eu revi as aulas de ontem só para não passar em branco, peguei mais leve.**
 
+**20/01/25: Hoje foi um dia bastante extenso, tivemos que refatorar todos os testes por causa da autenticação do spring security, ainda não terminamos, terei que refatorar um método PUT que eu acabei tendo que refazer. Essa semana se Deus quiser eu termino o curso.**
+
