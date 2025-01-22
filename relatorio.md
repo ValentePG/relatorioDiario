@@ -207,3 +207,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **21/01/25: Hoje terminei o módulo de segurança, obviamente que tem muito mais conteúdo sobre para complementar, eu ja possuo outro curso que irei fazer que é um pouco mais completo apenas sobre spring security, e também comecei as aulas sobre openApi contract first, que é basicamente sobre criar a especificação da api antes mesmo do código a partir de um arquivo yaml, achei bem interessante e é uma possível abordagem para próximos projetos.**
 
+**22/01/25: Hoje aprendi sobre observabilidade com spring actuator, prometheus e grafana, além de como montar uma imagem do meu projeto com google jib.**
+
