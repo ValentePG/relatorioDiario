@@ -209,3 +209,4 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 
 **22/01/25: Hoje aprendi sobre observabilidade com spring actuator, prometheus e grafana, além de como montar uma imagem do meu projeto com google jib.**
 
+**23/01/25: Hoje foi dia de aprender sobre testes unitários com o restClient e wiremock para testes de integração, infelizmente acabei encontrando um bug em um dos testes do wiremock onde a resposta da requisição era incrementada a cada teste que eu rodava, além de ter ums valores nulos muito estranhos, com certeza é uma tecnologia que eu irei me aprofundar mais, aparentemente é uma das ferramentas mais atuais para fazer testes de integração então vale a pena ir atrás.**
