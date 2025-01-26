@@ -212,3 +212,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **23/01/25: Hoje foi dia de aprender sobre testes unitários com o restClient e wiremock para testes de integração, infelizmente acabei encontrando um bug em um dos testes do wiremock onde a resposta da requisição era incrementada a cada teste que eu rodava, além de ter ums valores nulos muito estranhos, com certeza é uma tecnologia que eu irei me aprofundar mais, aparentemente é uma das ferramentas mais atuais para fazer testes de integração então vale a pena ir atrás.**
 
 **24/01/25: WireMock ta dando mais trabalho do que eu esperava, nada mais.**
+
+**25/01/25: Iniciei os testes Unitários no desafio vaga uol, pretendo terminar antes do mês acabar, para já começar outro desafio, este foi até que tranquilo.**
