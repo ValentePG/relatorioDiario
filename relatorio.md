@@ -214,3 +214,5 @@ Preciso voltar a fazer o curso de spring security é o ultimo módulo que falta 
 **24/01/25: WireMock ta dando mais trabalho do que eu esperava, nada mais.**
 
 **25/01/25: Iniciei os testes Unitários no desafio vaga uol, pretendo terminar antes do mês acabar, para já começar outro desafio, este foi até que tranquilo.**
+
+**26/01/25: Hoje refatorei alguns testes unitários, eu vi que um método acabou ficando grande demais e resolvi separar o arrange e os asserts em 2 funções, mas ainda estou meio preocupado se essa foi a melhor escolha, eu acabei recriando muitas variáveis para deixar os asserts o máximo legível possível, mas eu ainda não consegui pensar em nada para substituir essas variaveis, talvez coloca-las na pasta utils, mas no fim não mudaria muita coisa, enfim amanhã voltarei novamente a este mesmo módulo por que não to satisfeito, além disso utilizei novas funções que não havia utilizado ainda e que vão adicionar muito a robustez do teste.**
