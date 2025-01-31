@@ -226,3 +226,5 @@ Vou deixar esta mensagem aqui, sem pretenção nenhuma, porém se alguém além 
 **29/01/25: Faltando apenas os sliced tests do controller para terminar o projeto, não sei se irei fazer testes de integração, já que não foi pedido no desafio, também não acho que o projeto necessite tanto já que é só um desafio, hoje ja testei as constraints do banco, amanhã vai ser do controlador, e os unitários ja foram terminados, amanhã mesmo devo terminar e ja começar o desafio do itaú, que é um pouco mais dificil.**
 
 **30/01/25: Testes sunny day ja terminados, falta agora testar toda a validação do bean validation e também o caso do email enviado ja existir.**
+
+**31/01/25: Terminei os testes ontem mesmo e documentei o projeto no swagger, hoje criei um readme descrevendo o projeto e como executa-lo em outra máquina.**
