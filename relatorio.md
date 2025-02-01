@@ -228,3 +228,5 @@ Vou deixar esta mensagem aqui, sem pretenção nenhuma, porém se alguém além 
 **30/01/25: Testes sunny day ja terminados, falta agora testar toda a validação do bean validation e também o caso do email enviado ja existir.**
 
 **31/01/25: Terminei os testes ontem mesmo e documentei o projeto no swagger, hoje criei um readme descrevendo o projeto e como executa-lo em outra máquina.**
+
+**01/02/25: Acabei tendo um problema com o SSD do meu pc e vou ter que trocar, tenho um de backup graças a Deus, o trabalho continua.**
