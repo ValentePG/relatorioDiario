@@ -230,3 +230,5 @@ Vou deixar esta mensagem aqui, sem pretenção nenhuma, porém se alguém além 
 **31/01/25: Terminei os testes ontem mesmo e documentei o projeto no swagger, hoje criei um readme descrevendo o projeto e como executa-lo em outra máquina.**
 
 **01/02/25: Acabei tendo um problema com o SSD do meu pc e vou ter que trocar, tenho um de backup graças a Deus, o trabalho continua.**
+
+**02/02/25: Estou tendo que refazer meus scripts já que nenhum eu tinha subido no repositório remoto, este relatório está sendo feito através do novo script, vamos ver se funciona, hoje ainda vou começar a planejar o novo desafio de código, dessa vez vai ser o do picpay simplificado que utiliza bastante tecnologia e vai ser um ótimo teste para mim.**
