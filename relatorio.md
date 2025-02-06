@@ -238,3 +238,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **04/02/25: Tenho escrito pouco código nesses últimos 2 dias pois quero evoluir o meu processo de desenvolvimento, adicionando diagramas, fluxos, desenhos, arquitetura, enfim, coisas além do código que também importam e que foram de certa forma ignorados no começo dos meus estudos. Terminei a configuração do postgres no docker, ja tá tudo funcionando, preciso apenas criar as tabelas e as constraints, aliás o diagrama de classes também ta pronto, apenas preciso passar isso pro db.**
 
+**05/02/25: Hoje foi o dia de começar a codificar, e ficou tudo diferente do que eu tinha desenhado xD, vou ter que desenhar tudo novamente depois, as idéias foram surgindo durante a codificação, fiz um bom progresso nos serviços, porém ainda não testei nada, provavelmente não vai dar certo, mas estamos aqui pra resolver bugs não é mesmo? Aliás eu fiz um post no linkedin hoje que ficou bastante legal na minha opinião, eu tentei o meu melhor, ainda nem olhei se teve qualquer reação, também o objetivo não é esse, então não importa muito.**
+
