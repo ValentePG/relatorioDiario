@@ -240,3 +240,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **05/02/25: Hoje foi o dia de começar a codificar, e ficou tudo diferente do que eu tinha desenhado xD, vou ter que desenhar tudo novamente depois, as idéias foram surgindo durante a codificação, fiz um bom progresso nos serviços, porém ainda não testei nada, provavelmente não vai dar certo, mas estamos aqui pra resolver bugs não é mesmo? Aliás eu fiz um post no linkedin hoje que ficou bastante legal na minha opinião, eu tentei o meu melhor, ainda nem olhei se teve qualquer reação, também o objetivo não é esse, então não importa muito.**
 
+**06/02/25: Hoje eu dei praticamente o penúltimo passo do projeto, a regra de negócio está praticamente feita, o fluxo da transação está completo, falta agora fazer a integração com os 2 serviços externos propostos pelo desafio, tratar os erros e testar.**
+
