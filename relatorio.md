@@ -242,3 +242,4 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **06/02/25: Hoje eu dei praticamente o penúltimo passo do projeto, a regra de negócio está praticamente feita, o fluxo da transação está completo, falta agora fazer a integração com os 2 serviços externos propostos pelo desafio, tratar os erros e testar.**
 
+**07/02/25: Primeira integração com o serviço de authorização está completo, criei algumas queries extras, agora faltam o serviço de notificação com rabbitmq, os testes e preparar pro "deploy", além do code review no final visando melhorias.**
