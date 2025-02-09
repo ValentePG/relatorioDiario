@@ -246,3 +246,4 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **08/02/25: Hoje foi dia de adicionar a dependência e a imagem do rabbitMQ no projeto, configurá-lo para executar retries quando o consumidor lançar uma exceçãoquando o serviço externo estiver indisponível.**
 
+**09/02/25: Implementei o famoso lock otimista no projeto, foi desgastante, nunca tinha feito antes, mas provavelmente eu compliquei meu trabalho ao tentar fazer update em 2 colunas ao mesmo tempo, acabou que eu resolvi fazer 2 querys mesmoque isso afete a performance do projeto, eu preferi manter as coisas funcionandocorretamente. O trabalho ainda não acabou, talvez eu volte nessa query novamente, mas ainda preciso implementar o serviço de notificação.**
