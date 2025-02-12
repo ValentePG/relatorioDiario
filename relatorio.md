@@ -250,3 +250,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **10/02/25: Implementei o serviço de notificação com rabbitmq, aparentemente ta tudo funcionando, amanhã começo os testes, ótima oportunidade para por em prática os conhecimentos do curso novamente.**
 
+**11/02/25: Hoje foi dia de quebrar a cabeça com bean validation e com um problema na view do swagger, infelizmente demorei demais para perceber que as anotações do bean validation só funcionam corretamente em tipos primitivos, por isso tive que trocar alguns campos de long para Long. Amanhã vou revisar todo o código e toda a documentação para começar os testes.**
+
