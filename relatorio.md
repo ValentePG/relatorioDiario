@@ -253,3 +253,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **11/02/25: Hoje foi dia de quebrar a cabeça com bean validation e com um problema na view do swagger, infelizmente demorei demais para perceber que as anotações do bean validation só funcionam corretamente em tipos primitivos, por isso tive que trocar alguns campos de long para Long. Amanhã vou revisar todo o código e toda a documentação para começar os testes.**
 
 **12/02/25: Dei inicio aos testes, os unitários do walletService e da transaction ja estão prontos, posso sempre melhora-los depois, irei tentar terminar amanhã de uma vez.**
+
+**13/02/25: Hoje foi dia de configurar o testContainers e iniciar os testes de integração.**
+
