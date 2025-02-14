@@ -256,3 +256,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **13/02/25: Hoje foi dia de configurar o testContainers e iniciar os testes de integração.**
 
+**14/02/25: Comecei os testes com wireMock, fiz apenas um cenário por enquanto, talvez faça mais alguns hoje, mas é garantido que terminarei amanhã de manhã.**
+
