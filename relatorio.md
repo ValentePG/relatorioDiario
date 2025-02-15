@@ -258,3 +258,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **14/02/25: Comecei os testes com wireMock, fiz apenas um cenário por enquanto, talvez faça mais alguns hoje, mas é garantido que terminarei amanhã de manhã.**
 
+**15/05/25: Finalizei praticamente quase todos os testes, preciso automatizar um último que vai testar o lock otimista, os de integração já foram, da api ja foi, e os unitários também.**
+
+
