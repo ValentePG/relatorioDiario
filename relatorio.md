@@ -260,4 +260,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **15/05/25: Finalizei praticamente quase todos os testes, preciso automatizar um último que vai testar o lock otimista, os de integração já foram, da api ja foi, e os unitários também.**
 
+**16/05/25: Hoje foi dia de começar a preparar o projeto para "produção", criei a imagem e coloquei no docker hub, ja puxei para o docker compose e ta tudo funcionando, porém ainda tem muita configuração que eu preciso remover, mas já serviu pra entender como vou fazer.**
+
 
