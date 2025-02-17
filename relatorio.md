@@ -258,10 +258,10 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **14/02/25: Comecei os testes com wireMock, fiz apenas um cenário por enquanto, talvez faça mais alguns hoje, mas é garantido que terminarei amanhã de manhã.**
 
-**15/05/25: Finalizei praticamente quase todos os testes, preciso automatizar um último que vai testar o lock otimista, os de integração já foram, da api ja foi, e os unitários também.**
+**15/02/25: Finalizei praticamente quase todos os testes, preciso automatizar um último que vai testar o lock otimista, os de integração já foram, da api ja foi, e os unitários também.**
 
-**16/05/25: Hoje foi dia de começar a preparar o projeto para "produção", criei a imagem e coloquei no docker hub, ja puxei para o docker compose e ta tudo funcionando, porém ainda tem muita configuração que eu preciso remover, mas já serviu pra entender como vou fazer.**
+**16/02/25: Hoje foi dia de começar a preparar o projeto para "produção", criei a imagem e coloquei no docker hub, ja puxei para o docker compose e ta tudo funcionando, porém ainda tem muita configuração que eu preciso remover, mas já serviu pra entender como vou fazer.**
 
-**17/05/25: Hoje fiz o teste do lock otimista, sinceramente espero ter testado corretamente, fiquei satisfeito, o teste se comportou como eu queria, devem ter maneiras melhores para testar, quem sabe em algum momento eu receba um feedback desse teste.**
+**17/02/25: Hoje fiz o teste do lock otimista, sinceramente espero ter testado corretamente, fiquei satisfeito, o teste se comportou como eu queria, devem ter maneiras melhores para testar, quem sabe em algum momento eu receba um feedback desse teste.**
 
 
