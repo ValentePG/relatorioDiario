@@ -262,4 +262,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **16/05/25: Hoje foi dia de começar a preparar o projeto para "produção", criei a imagem e coloquei no docker hub, ja puxei para o docker compose e ta tudo funcionando, porém ainda tem muita configuração que eu preciso remover, mas já serviu pra entender como vou fazer.**
 
+**17/05/25: Hoje fiz o teste do lock otimista, sinceramente espero ter testado corretamente, fiquei satisfeito, o teste se comportou como eu queria, devem ter maneiras melhores para testar, quem sabe em algum momento eu receba um feedback desse teste.**
+
 
