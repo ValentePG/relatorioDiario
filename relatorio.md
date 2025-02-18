@@ -264,4 +264,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **17/02/25: Hoje fiz o teste do lock otimista, sinceramente espero ter testado corretamente, fiquei satisfeito, o teste se comportou como eu queria, devem ter maneiras melhores para testar, quem sabe em algum momento eu receba um feedback desse teste.**
 
+**18/02/25: Comecei a documentação do projeto no repositório.**
 
