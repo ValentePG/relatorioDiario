@@ -266,3 +266,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **18/02/25: Comecei a documentação do projeto no repositório.**
 
+**19/02/25: Melhorei a documentação do projeto no repositório, esta quase na hora de ir para o pŕoximo desafio.**
+
