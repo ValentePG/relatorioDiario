@@ -268,3 +268,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **19/02/25: Melhorei a documentação do projeto no repositório, esta quase na hora de ir para o pŕoximo desafio.**
 
+**20/02/25: Sinceramente, tirei o dia para melhorar algumas coisas no meu linkedin/currículo e amanhã talvez faça o mesmo, ainda não peguei em código hoje, porém ainda devo codar algo.**
+
