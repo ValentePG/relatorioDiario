@@ -270,3 +270,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **20/02/25: Sinceramente, tirei o dia para melhorar algumas coisas no meu linkedin/currículo e amanhã talvez faça o mesmo, ainda não peguei em código hoje, porém ainda devo codar algo.**
 
+**21/02/25: Tive a ideia de implementar um teste automatizado no desafiopicpaysimplificado com selenium, ainda não sei como vou fazer pois nunca utilizei, amanhã mesmo irei implementar.**
+
