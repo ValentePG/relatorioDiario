@@ -272,3 +272,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **21/02/25: Tive a ideia de implementar um teste automatizado no desafiopicpaysimplificado com selenium, ainda não sei como vou fazer pois nunca utilizei, amanhã mesmo irei implementar.**
 
+**22/02/25: Não implementei o teste xD, mas vou deixar na lista das tecnologias para estudar, preciso revisar o projeto para ver se esta tudo ok realmente e irei ir para o próximo que talvez seja um projeto de verdade não mais um desafio técnico, um projeto para ajudar um amigo nutricionista a gerenciar e atender seus clientes. Hoje e ontem eu apenas fiz alguns exercicios no beecrowd de sql, eu senti que precisava reforçar mais a base e vou fazer isso não só com sql, mas também com algoritimos, quem sabe voltar pro leetcode, ou fazer os exercicios no beecrowd mesmo. Eu me sinto muito bem quando acordo e a primeira coisa q faço são esses pequenos exercicios, parece que o cérebro passa a funcionar um pouco melhor, claro que não pode ser um exercicio muito dificil pq se não se torna algo desafiador até demais, a proposta é exercitar e "ligar" o cérebro para começar o dia bem.**
+
