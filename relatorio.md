@@ -276,4 +276,4 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **24/02/25: Hoje fiz mais alguns daqueles exercicios de sql para praticar, não fiz muito mais nada além disso.**
 
-**25/02/25: Hoje foi um daqueles dias em que eu só pensei em desistir de continuar fazendo oque eu tenho q fazer, mas estamos ai **
+**25/02/25: Hoje foi um daqueles dias em que eu só pensei em desistir de continuar fazendo oque eu tenho q fazer, mas estamos ai**
