@@ -277,3 +277,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **24/02/25: Hoje fiz mais alguns daqueles exercicios de sql para praticar, não fiz muito mais nada além disso.**
 
 **25/02/25: Hoje foi um daqueles dias em que eu só pensei em desistir de continuar fazendo oque eu tenho q fazer, mas estamos ai**
+
+**26/02/25: Dei inicio ao projeto do sistema de gestão do meu amigo por enquanto apenas fiz um endpoint para registrar as informações manualmente pelo próprio admin, oque não é efetivo, porém era o mais simples a se fazer, agora eu preciso tomar uma decisão, fazer esses dados virem de um forms feito por mim com Typescript ou Javascript, ou linkar um microsoft form ao sistema e fazer as informações virem diretamente de la, já que ele ja faz uso do forms da microsoft na empresa dele, preciso pensar nisto para continuar o projeto.**
