@@ -285,3 +285,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **28/02/25: A primeira implementação que testei foi com uma estrutura concorrente para aceitar que diferentes threads adicionem transações ao mesmo DoubleSummaryStatistics, eu não sei exatamente se foi pedido isso no desafio, mas irei implementar dessa forma, irei refatorar toda regra para o service amanhã e decidirei oque vou fazer, ainda tenho que mexer em algumas constraints como não poder receber transações no passado(??).**
 
 **01/03/25: Comecei a implementar a regra de negócio do projeto, já descobri como filtrar as últimas transações, amanhã mesmo passo a configuração do timing (60 seg) para um time configuravel no próprio application.yml, que é uma feature não obrigatória mas sugerida. Ainda preciso revisar as estruturas de dados e a biblioteca Duration, tem muita coisa pra ser refatorada ainda.**
+
+**02/03/25: Hoje foi dia de estudar sobre IA com langchain4j no canal da kipper, estou pensando seriamente em fazer uma integração com llm em um projeto próximo.**
