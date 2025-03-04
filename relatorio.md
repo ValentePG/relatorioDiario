@@ -287,3 +287,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **01/03/25: Comecei a implementar a regra de negócio do projeto, já descobri como filtrar as últimas transações, amanhã mesmo passo a configuração do timing (60 seg) para um time configuravel no próprio application.yml, que é uma feature não obrigatória mas sugerida. Ainda preciso revisar as estruturas de dados e a biblioteca Duration, tem muita coisa pra ser refatorada ainda.**
 
 **02/03/25: Hoje foi dia de estudar sobre IA com langchain4j no canal da kipper, estou pensando seriamente em fazer uma integração com llm em um projeto próximo.**
+
+**03/03/25: Hoje organizei o código do desafio Itaú, deixei bem conciso, ainda tem bastante coisa para implementar além dos testes então tem muito trabalho a ser feito amanhã.**
