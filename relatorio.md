@@ -289,3 +289,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **02/03/25: Hoje foi dia de estudar sobre IA com langchain4j no canal da kipper, estou pensando seriamente em fazer uma integração com llm em um projeto próximo.**
 
 **03/03/25: Hoje organizei o código do desafio Itaú, deixei bem conciso, ainda tem bastante coisa para implementar além dos testes então tem muito trabalho a ser feito amanhã.**
+
+**04/03/25: Finalizei os testes de integração do projeto Itaú, adicionei as validações necessárias para o endpoint que recebe as transações, faltam os testes unitários, o teste de concorrência e algumas outras coisas.**
