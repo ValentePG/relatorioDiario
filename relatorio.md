@@ -291,3 +291,7 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **03/03/25: Hoje organizei o código do desafio Itaú, deixei bem conciso, ainda tem bastante coisa para implementar além dos testes então tem muito trabalho a ser feito amanhã.**
 
 **04/03/25: Finalizei os testes de integração do projeto Itaú, adicionei as validações necessárias para o endpoint que recebe as transações, faltam os testes unitários, o teste de concorrência e algumas outras coisas.**
+
+**05/03/25: No dia 04 eu falei que havia finalizado os testes de integração, menti, no dia 05 ainda fiz varias modificações e novos testes, ainda tive que tomar uma decisão final sobre utilizar BigDecimal ou um double nas entidades de domínio.**
+
+**06/03/25: Aparentemente dessa vez eu finalizei os testes de integração e unitários, agora faltam alguns testes específicos para confirmar que a concorrência no projeto esta bem implementada, faltam também a documentação com springdoc e a documentação visual.**
