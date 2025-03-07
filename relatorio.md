@@ -295,3 +295,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **05/03/25: No dia 04 eu falei que havia finalizado os testes de integração, menti, no dia 05 ainda fiz varias modificações e novos testes, ainda tive que tomar uma decisão final sobre utilizar BigDecimal ou um double nas entidades de domínio.**
 
 **06/03/25: Aparentemente dessa vez eu finalizei os testes de integração e unitários, agora faltam alguns testes específicos para confirmar que a concorrência no projeto esta bem implementada, faltam também a documentação com springdoc e a documentação visual.**
+
+**07/03/25: Adicionei a documentação do swagger aos devidos endpoints, sinto que ainda da para melhorar, porém acho que é o suficiente para bater o olho e conseguirem testar a aplicação corretamente, agora eu vou passar a aplicação para um container docker, ainda preciso testar a performance do código entre outras coisas.**
