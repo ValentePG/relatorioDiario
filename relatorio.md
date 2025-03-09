@@ -299,3 +299,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **07/03/25: Adicionei a documentação do swagger aos devidos endpoints, sinto que ainda da para melhorar, porém acho que é o suficiente para bater o olho e conseguirem testar a aplicação corretamente, agora eu vou passar a aplicação para um container docker, ainda preciso testar a performance do código entre outras coisas.**
 
 **08/03/25: Tomei uma decisão fixa para meu cronograma a partir de hoje, todo final de semana eu vou estudar alguma matéria de ciência da computação em um dos repositórios que eu tenho como favorito aqui no github, mas antes de ir para a grade sugerida, irei estudar redes e sistemas operacionais, já havia estudado um pouco antes não estou zerado no assunto, mas a partir de hoje todo final de semana irei estudar pelo menos 2 horas de conceitos e ai durante a semana eu sigo normalmente praticando e estudando matérias mais práticas em si.**
+
+**09/03/25: Hoje foi dia de organizar a semana e iniciar um novo projeto, não codei.**
