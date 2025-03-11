@@ -303,3 +303,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **09/03/25: Hoje foi dia de organizar a semana e iniciar um novo projeto, não codei.**
 
 **10/03/25: Adicionei os extras do desafio, ficou faltando apenas a documentação, hoje (dia 11), ja estou completando este passo também.**
+
+**11/03/25: Finalizei a documentação e agora creio eu que não falte mais nada para o desafio estar completo, vou revisar e anotar como completo até amanhã, também vou dar um tempo dos desafios, preciso criar meus projetos para por no portfolio e curriculo, além do projeto atual que ja esta em andamento.**
