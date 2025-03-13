@@ -307,3 +307,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **11/03/25: Finalizei a documentação e agora creio eu que não falte mais nada para o desafio estar completo, vou revisar e anotar como completo até amanhã, também vou dar um tempo dos desafios, preciso criar meus projetos para por no portfolio e curriculo, além do projeto atual que ja esta em andamento.**
 
 **12/03/25: Documentação testada e completa, pronto para o próximo projeto.**
+
+**13/03/25: Tenho 3 projetos para fazer, pretendo terminar os 3 este mês, não sei se vou conseguir mas vou tentar.**
