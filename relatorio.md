@@ -309,3 +309,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **12/03/25: Documentação testada e completa, pronto para o próximo projeto.**
 
 **13/03/25: Tenho 3 projetos para fazer, pretendo terminar os 3 este mês, não sei se vou conseguir mas vou tentar.**
+
+**14/03/25: Dei inicio ao desafio do devMagro do ytb, ainda não subi para um repo remoto, mas vou amanhã, o desafio é pra ser feito em uma semana então já deixo aqui que comecei no dia 14, então eu preciso entregar até o dia 21.**
