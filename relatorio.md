@@ -315,3 +315,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **15/03/25: O desafio é muito bom, pensei que iria travar mais, mas na verdade até que ta fluindo bem, acho que o mais complicado vão ser as constraints do projeto, tratamento de exceções e etc...**
 
 **16/03/25: O repositório esta criado, o projeto ainda ta bem bagunçado precisa de mais organização e ainda tem muita feature para adicionar, amanhã terei muito trabalho.**
+
+**17/03/25: Hoje fiz um baita progresso no projeto, a função de cadastro está quase completa, faltam as constraints das opções além da primeira que foi a única que eu terminei hoje.**
