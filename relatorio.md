@@ -317,3 +317,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **16/03/25: O repositório esta criado, o projeto ainda ta bem bagunçado precisa de mais organização e ainda tem muita feature para adicionar, amanhã terei muito trabalho.**
 
 **17/03/25: Hoje fiz um baita progresso no projeto, a função de cadastro está quase completa, faltam as constraints das opções além da primeira que foi a única que eu terminei hoje.**
+
+**18/03/25: Acho que eu terminei o menu, pelos meus testes ta tudo correto, na verdade falta só uma feature que é deixar o valor NÃO INFORMADO como padrão de alguns campos, ta sendo um mistério pra mim fazer isto já que oque eu costumo receber é o proprio tipo da propriedade, eu devo estar deixando passar alguma informação, mas vou dar continuidade no projeto mesmo assim, próxima feature é a feature de criar uma pasta e um arquivo com nome formatado para salvar a informação dos pets.**
