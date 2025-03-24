@@ -328,3 +328,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **22/03/25: Renomeei e refatorei muitas funções e muitas variáveis, quebrei tudo em funções menores e criei um service que centraliza a maioria das operações, deixei um pouco mais parecido com o springboot.**
 
+**23/03/25: Adicionei novas funções e renomeei outras, deve ter faltado alguma coisa com certeza, mas o projeto ta pronto, não vou parar de mexer nele ainda vou procurar alguns bugs, implementar alguns testes entre outras coisas, vou usar o projeto como laboratório.**
+
