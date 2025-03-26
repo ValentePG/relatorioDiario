@@ -333,3 +333,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **24/03/25: Dei o projeto como finalizado confesso que implementei algumas coisas que havia deixado faltar hoje então meio que eu "roubei" ja q era pra ter entregado ontem, mas foram coisas pequenas como não tratar as funções de busca caso não tenha nenhum registro e a própria documentação. Ainda tem muita coisa pra melhorar no código, eu não gostei de algumas implementações que fiz, mas vou deixar deste jeito, ou talvez eu faça oq eu disse anteriormente, crie uma tag pra dizer que aquela versão é a versão do desafio e dps eu continuo implementando, não sei, acho que eu já irei iniciar outro projeto, dessa vez mais ambicioso, um projeto fullstack ou até utilizando thymeleaf não sei, eu vou tentar unir um desafio da devdojo com uma ideia que eu mesmo tive e fazer um bem bolado.**
 
 **25/03/25: Apenas fiz algumas refatorações no projeto.**
+
+**26/03/25: Hoje eu fiz um pequeno servidor de arquivos, só para brincar mesmo, fiz um js bem rapido e o backend com springboot, algo me diz que eu vou utilizar isso em algum projeto bem próximo.**
