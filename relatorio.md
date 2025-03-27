@@ -335,3 +335,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **25/03/25: Apenas fiz algumas refatorações no projeto.**
 
 **26/03/25: Hoje eu fiz um pequeno servidor de arquivos, só para brincar mesmo, fiz um js bem rapido e o backend com springboot, algo me diz que eu vou utilizar isso em algum projeto bem próximo.**
+
+**27/03/25: Passei o dia sem luz :).**
