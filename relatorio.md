@@ -337,3 +337,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **26/03/25: Hoje eu fiz um pequeno servidor de arquivos, só para brincar mesmo, fiz um js bem rapido e o backend com springboot, algo me diz que eu vou utilizar isso em algum projeto bem próximo.**
 
 **27/03/25: Passei o dia sem luz :).**
+
+**28/03/25: A luz voltou e eu criei um programinha em angular só pra consumir a api do servidor de arquivos que fiz, vou tomar vergonha na cara e aprimorar meu typescript para fazer minhas interfaces.**
+
