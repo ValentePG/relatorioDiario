@@ -340,3 +340,4 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **28/03/25: A luz voltou e eu criei um programinha em angular só pra consumir a api do servidor de arquivos que fiz, vou tomar vergonha na cara e aprimorar meu typescript para fazer minhas interfaces.**
 
+**29/03/25: Hoje eu apenas assisti alguns conteúdos do akita, é sempre bom tomar algumas lições para "voltar" ao eixo e sair da zona de conforto.**
