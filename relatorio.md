@@ -344,3 +344,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **30/03/25: Hoje eu estudei sobre uma maneira de monitorar alterações em arquivos, acabei descobrindo que o java ja tem uma implementação nativa com WatchService, amanhã mesmo irei testar, vai ser importante para projetos no futuro.**
 
+**31/03/25: Hoje criei o projeto para testar o watchservice, pequeno mesmo só para testar, uni com outro programa pelo qual eu registro usuarios e salvo num arquivo "nome".json e o watchservice conseguiu "rastrear" a alteração e eu consegui também pegar o absolute path oque me ajuda a ter controle sobre qual arquivo que foi alterado, podendo assim utilizar para outras coisas, inclusive pode ser um bom utilitário para arquivos de logs, por exemplo um sisteminha que le os logs das minhas apis, enfim da pra usar em muitos lugares, além disso acabei conhecendo do nada uma classe chamada JFileChooser do swing, achei bem interessante.**
+
