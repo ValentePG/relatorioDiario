@@ -346,3 +346,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **31/03/25: Hoje criei o projeto para testar o watchservice, pequeno mesmo só para testar, uni com outro programa pelo qual eu registro usuarios e salvo num arquivo "nome".json e o watchservice conseguiu "rastrear" a alteração e eu consegui também pegar o absolute path oque me ajuda a ter controle sobre qual arquivo que foi alterado, podendo assim utilizar para outras coisas, inclusive pode ser um bom utilitário para arquivos de logs, por exemplo um sisteminha que le os logs das minhas apis, enfim da pra usar em muitos lugares, além disso acabei conhecendo do nada uma classe chamada JFileChooser do swing, achei bem interessante.**
 
+**01/04/25: Até que enfim hoje eu tive coragem de criar um programinha para conectar o meu pc e meu notbook, eu tinha um pouco de receio de expor portas nos meus computadores, mas hoje eu tomei coragem e fiz, agora eu to tentando pensar em algum programa utilitário para fazer. Fiz tudo com ServerSocket e Socket do java.**
+
