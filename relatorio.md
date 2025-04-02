@@ -348,3 +348,4 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **01/04/25: Até que enfim hoje eu tive coragem de criar um programinha para conectar o meu pc e meu notbook, eu tinha um pouco de receio de expor portas nos meus computadores, mas hoje eu tomei coragem e fiz, agora eu to tentando pensar em algum programa utilitário para fazer. Fiz tudo com ServerSocket e Socket do java.**
 
+**02/04/25: Hoje eu adiantei 2 matérias da faculdade, estou no último trimestre estudando sobre cybersecurity e é mais uma matéria complexa e por enquanto teórica demais (daquelas chatas) mas que é muito importante saber.** 
