@@ -348,4 +348,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **01/04/25: Até que enfim hoje eu tive coragem de criar um programinha para conectar o meu pc e meu notbook, eu tinha um pouco de receio de expor portas nos meus computadores, mas hoje eu tomei coragem e fiz, agora eu to tentando pensar em algum programa utilitário para fazer. Fiz tudo com ServerSocket e Socket do java.**
 
-**02/04/25: Hoje eu adiantei 2 matérias da faculdade, estou no último trimestre estudando sobre cybersecurity e é mais uma matéria complexa e por enquanto teórica demais (daquelas chatas) mas que é muito importante saber.** 
+**02/04/25: Hoje eu adiantei 2 matérias da faculdade, estou no último trimestre estudando sobre cybersecurity e é mais uma matéria complexa e por enquanto teórica demais (daquelas chatas) mas que é muito importante saber.**
+
+**03/04/25: Hoje eu fiz algo que eu achei sensacional, consegui colocar uma aplicação angular (buildada) dentro do electron.js e tornei a aplicação em desktop nativo, eu achei muito legal, até por que eu ja estou com este projeto de aprender angular e saber que eu posso simplesmente colocar o mesmo front-end da web em um app desktop é sensacional, agora eu também irei procurar alguma forma de fazer o mesmo para mobile, eu ja sei que tem como transformar em PWA mas ainda não implementei, bem foi um projeto simples então ta na hora de fazer algo mais robusto com isso, novidades em breve.**
