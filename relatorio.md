@@ -353,3 +353,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **03/04/25: Hoje eu fiz algo que eu achei sensacional, consegui colocar uma aplicação angular (buildada) dentro do electron.js e tornei a aplicação em desktop nativo, eu achei muito legal, até por que eu ja estou com este projeto de aprender angular e saber que eu posso simplesmente colocar o mesmo front-end da web em um app desktop é sensacional, agora eu também irei procurar alguma forma de fazer o mesmo para mobile, eu ja sei que tem como transformar em PWA mas ainda não implementei, bem foi um projeto simples então ta na hora de fazer algo mais robusto com isso, novidades em breve.**
 
 **04/04/25: Hoje eu estudei sobre tools com langchain4j não apliquei ainda.**
+
+**05/04/25: Commitando esse após meia noite (virada para o dia 6) perdi a streak, mas continuo aki, não me importo com os quadradinhos, hoje foi realmente um dia atípico, mas muito importante, o dia que eu peguei mais folego para continuar a jornada.**
+
