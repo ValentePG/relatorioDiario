@@ -358,3 +358,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **06/04/25: Segui estudando a documentação do langchain, amanhã irei estudar as tools e os embedded stores.**
 
+**07/04/25: Testei as tools é um recurso muito poderoso para garantir a resposta eficiente da IA de acordo com a aplicação, ainda falta testar as embed stores.**
+
