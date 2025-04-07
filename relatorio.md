@@ -356,3 +356,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **05/04/25: Commitando esse após meia noite (virada para o dia 6) perdi a streak, mas continuo aki, não me importo com os quadradinhos, hoje foi realmente um dia atípico, mas muito importante, o dia que eu peguei mais folego para continuar a jornada.**
 
+**06/04/25: Segui estudando a documentação do langchain, amanhã irei estudar as tools e os embedded stores.**
+
