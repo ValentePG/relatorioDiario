@@ -369,3 +369,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **11/04/25: Todas as funções (2) agora são chamadas através do function calling do langchain4j, criei um repositório para persistir os arquivos do diretório escolhido pelo usuário. Estou com certa dificuldade de pensar exatamente as features que eu quero desenvolver. A feature de sugerir uma mensagem de commit até está pronta, mas é complicado o llama3.1 sugerir alguma mensagem boa e eu confesso que não sou (ainda) um bom prompt engineer então fica mais dificil, mas de vez enquando ele sugere mensagens boas, mas a idéia é só ser uma sugestão, então no final o usuário vai poder escolher se ele quer usar aquela mensagem ou não. Inclusive no fim é um projeto java para executar comandos git usando IA, espero que eu consiga desenvolver algumas ideias que eu tenho.**
 
 **12/04/25: Hoje eu estudei um pouco de typescript já que um dos planos é ficar bom em angular ainda este ano, li o inicio da doc e fiz alguns exercicios no app mimo, não codei ainda, amanhã farei.**
+
+**13/04/25: Dei uma lida na documentação do typescript e iniciei um projeto para praticar.**
