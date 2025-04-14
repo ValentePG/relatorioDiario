@@ -371,3 +371,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **12/04/25: Hoje eu estudei um pouco de typescript já que um dos planos é ficar bom em angular ainda este ano, li o inicio da doc e fiz alguns exercicios no app mimo, não codei ainda, amanhã farei.**
 
 **13/04/25: Dei uma lida na documentação do typescript e iniciei um projeto para praticar.**
+
+**14/04/25: Li mais uma parte da doc e implementei no projeto.**
+
