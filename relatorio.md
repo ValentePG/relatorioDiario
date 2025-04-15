@@ -374,3 +374,4 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **14/04/25: Li mais uma parte da doc e implementei no projeto.**
 
+**15/04/25: Mesma coisa de ontem, hoje eu li toda parte sobre funções.**
