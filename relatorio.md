@@ -377,3 +377,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **15/04/25: Mesma coisa de ontem, hoje eu li toda parte sobre funções.**
 
 **16/04/25: Mesma coisa que nos ultimos 3 dias, hoje cheguei na sessão de objetos da doc do ts. ( Do nada eu comecei a ler a doc, eu não tinha planejado nada disso, mas vai fazer sentido quando eu voltar pro angular).**
+
+**17/04/25: Terminei o handbook do ts, vou ler mais algumas coisas e começar a aplicar.**
