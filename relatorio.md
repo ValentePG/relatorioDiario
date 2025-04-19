@@ -381,3 +381,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **17/04/25: Terminei o handbook do ts, vou ler mais algumas coisas e começar a aplicar.**
 
 **18/04/25: Iniciei a leitura da documentação do angular.**
+
+**19/04/25: Li sobre declaração de components e signals.**
