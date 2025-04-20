@@ -383,3 +383,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **18/04/25: Iniciei a leitura da documentação do angular.**
 
 **19/04/25: Li sobre declaração de components e signals.**
+
+**20/04/25: Hoje eu tirei o dia para descansar um pouco.**
+
