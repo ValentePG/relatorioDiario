@@ -386,3 +386,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **20/04/25: Hoje eu tirei o dia para descansar um pouco.**
 
+**21/04/25: Li sobre forms e reactive forms no angular.**
+
