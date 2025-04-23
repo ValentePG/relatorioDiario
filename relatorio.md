@@ -389,3 +389,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **21/04/25: Li sobre forms e reactive forms no angular.**
 
 **22/04/25: Voltei ao projeto do monitorador de arquivos, porém retirei o langchain por enquanto, acabei ficando meio perdido na questão de onde utilizar a IA nesse sistema, talvez eu volte a utilizar apenas na sugestão do commit quando o usuário for commitar algo, mas por enquanto vou desenvolver todas as funções e dps eu penso onde eu vou encaixar o tooling ou o RAG tb.**
+
+**23/04/25: Hoje eu dei mais um passo no projeto, ja consigo acessar os arquivos que saem do comando git status e armazená-los corretamente, agora eu preciso pensar no próximo passo.**
