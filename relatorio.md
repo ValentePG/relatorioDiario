@@ -394,3 +394,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **24/04/25: Hoje pratiquei um pouco sobre o data binding do angular (models,inputs, FormsModule(ngModule)) e ainda refatorei um repository do projeto git, estou tentando mudar um pouco a maneira como eu codifico, recebi uma dica muito importante sobre criar funções de uma maneira com que possam ser utilizadas em outros programas e não atrelar tanto o código ao projeto em si, por exemplo ao invés de preencher uma estrutura de dados dentro de uma função que utilizo para salvar paths de arquivos que são repositórios git, eu retiro esse preenchimento, desacoplando a função e simplesmente faço esta função retornar uma lista, agora facilmente poderia criar talvez uma biblioteca de utilitários e declarar esta função la como um identificador de repositórios git. Eu confesso que não pensava assim antes, claro que nem sempre vai da para pensar em uma solução assim, mas é interessante.**
 
+
+**25/04/25: Em paralelo ao projeto do git iniciarei meus estudos em Jakarta EE, já que eu fui direto do Java SE para o springboot, agora voltarei um pouco atrás para aprender o tão falado Jakarta.**
