@@ -396,3 +396,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 
 **25/04/25: Em paralelo ao projeto do git iniciarei meus estudos em Jakarta EE, já que eu fui direto do Java SE para o springboot, agora voltarei um pouco atrás para aprender o tão falado Jakarta.**
+
+**26/04/25: Hoje passei o dia INTEIRO setupando um projeto com servlet + jsp ( SÓ O SETUP) mas no final consegui, provavelmente tem alguma maneira mais simples de fazer este setup, mas ta tudo certo, vou criar uma apizinha e linkar com um front-end em angular simples que eu estou fazendo (Só fiz o setup do jsp para brincar, depois eu faço um projeto com ele também).**
