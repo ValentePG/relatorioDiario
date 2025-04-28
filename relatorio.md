@@ -401,3 +401,4 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **27/04/25: Fiz mais uma revisãozinha em servlets, explorei o HttpServletRequest/Response amanhã testarei mais coisas com jsp também.**
 
+**28/04/25: Criei uma apizinha simples utilizando servlets e consumi com o frontend em angular de um projetinho que eu to usando para estudar.**
