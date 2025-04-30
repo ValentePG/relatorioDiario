@@ -404,3 +404,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **28/04/25: Criei uma apizinha simples utilizando servlets e consumi com o frontend em angular de um projetinho que eu to usando para estudar.**
 
 **29/04/25: Comecei a ler a doc do angular material que provém componentes prontos ao angular, ja comecei a aplicar no mesmo projeto de ontem.**
+
+**30/04/25: Hoje eu conheci a biblioteca Jsoup que serve para fazer webscrapping, que era um assunto que eu tinha curiosidade de aprender, comecei a fazer os primeiros testes no site books to scrape.**
+
