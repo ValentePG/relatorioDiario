@@ -408,3 +408,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **30/04/25: Hoje eu conheci a biblioteca Jsoup que serve para fazer webscrapping, que era um assunto que eu tinha curiosidade de aprender, comecei a fazer os primeiros testes no site books to scrape.**
 
 **01/05/25: Iniciei um projeto onde vou criar um fluxo de login completo com autenticação, angular + JEE com servlets.**
+
+**02/05/25: Passei o client de requisição de axios para httpclient que é nativo do angular, onde aprendi sobre observable e outras coisas.**
+
