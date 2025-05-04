@@ -413,3 +413,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **03/05/25: Estudei sobre JWT e irei implementar no projeto amanhã mesmo.(Ainda não sei como)**
 
+**04/05/25: Implementei o fluxo completo com JWT no projeto laboratório hoje, ainda tem muita coisa para melhorar mas ta funcionando, ainda pretendo adicionar o login com o google, github sem precisar de senha com oauth e openid, falta também criptografar a senha do usuário e arrumar um local mais seguro para armazenar os JWTs, não sei se é viável deixar no localstorage mesmo, ja que não tem nenhuma informação sensivel no payload.**
+
