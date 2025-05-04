@@ -411,3 +411,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **02/05/25: Passei o client de requisição de axios para httpclient que é nativo do angular, onde aprendi sobre observable e outras coisas.**
 
+**03/05/25: Estudei sobre JWT e irei implementar no projeto amanhã mesmo.(Ainda não sei como)**
+
