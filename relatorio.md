@@ -419,3 +419,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **06/05/25: Hoje li a seção diretiva do angular, um recurso muito poderoso para adicionar "features" a determinados componentes ou tags de uma maneira mais simples e organizada.**
 
+**07/05/25: Hoje eu terminei as matérias da faculdade e reli a seção de diretivas da doc do angular.**
+
