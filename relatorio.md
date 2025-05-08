@@ -421,3 +421,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **07/05/25: Hoje eu terminei as matérias da faculdade e reli a seção de diretivas da doc do angular.**
 
+**08/05/25: Hoje eu li a seção de DI da doc e a seção routing e reli a de signals, acho que ja é o suficiente para criar algum projeto legal pro portfólio de fato, vou atrás disso ai.**
+
