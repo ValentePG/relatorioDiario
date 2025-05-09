@@ -423,3 +423,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **08/05/25: Hoje eu li a seção de DI da doc e a seção routing e reli a de signals, acho que ja é o suficiente para criar algum projeto legal pro portfólio de fato, vou atrás disso ai.**
 
+**09/05/25: Hoje eu inacreditavelmente comecei a revisar css, pois sinto que meu maior problema na hora de desenvolver um layout é o css, então como eu vou precisar criar um software completo eu preciso voltar novamente ao css e revisar oque eu aprendi la atrás.**
+
