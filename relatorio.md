@@ -426,3 +426,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **09/05/25: Hoje eu inacreditavelmente comecei a revisar css, pois sinto que meu maior problema na hora de desenvolver um layout é o css, então como eu vou precisar criar um software completo eu preciso voltar novamente ao css e revisar oque eu aprendi la atrás.**
 
 **10/05/25: Continuei a revisão de ontem e aprendi muita coisa sobre flexbox que eu não sabia/lembrava.**
+
+**11/05/25: Descanso.**
