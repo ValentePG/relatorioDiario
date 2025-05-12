@@ -428,3 +428,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **10/05/25: Continuei a revisão de ontem e aprendi muita coisa sobre flexbox que eu não sabia/lembrava.**
 
 **11/05/25: Descanso.**
+
+**12/05/25: Continuei os estudos de css, dessa vez revisei grid o próx conteúdo é tailwind.**
