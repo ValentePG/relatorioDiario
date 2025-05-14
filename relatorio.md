@@ -431,5 +431,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **12/05/25: Continuei os estudos de css, dessa vez revisei grid o próx conteúdo é tailwind.**
 
-**13/05/25: Ainda não comecei tailwind, terminei de ver alguns conteúdos que eu tinha pronto sobre grid e flexbox e iniciei uma novo estrutura de projeto, talvez esse vá para produção.**
+**13/05/25: Ainda não comecei tailwind, terminei de ver alguns conteúdos que eu tinha pronto sobre grid e flexbox e iniciei uma novo estrutura de projeto, talvez esse vá para produção. Adicionando mais um relatório fora do horário padrão, configurei o auth2.0 em um projeto que estou fazendo, ja consigo gerar o JWT do google e posso enviar pro back-end fazer a autenticação, amanhã implementarei isto, to com dor de cabeça.**
 
