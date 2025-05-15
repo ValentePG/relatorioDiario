@@ -435,3 +435,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **14/05/25: Hoje configurei o OpenID connect do google no projeto e ja tá sendo enviado pro back-end e verificado corretamente, agora precisa de organização e mais alguns detalhes.**
 
+**15/05/25: Comecei a aprender tailwind e to aprendendo mais sobre css no curso de tailwind do que no curso de css em si, ja comecei a aplicar no projeto.**
+
