@@ -437,3 +437,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **15/05/25: Comecei a aprender tailwind e to aprendendo mais sobre css no curso de tailwind do que no curso de css em si, ja comecei a aplicar no projeto.**
 
+**16/05/25: Hoje continuei lendo a doc e implementei algumas coisas com tailwind.**
+
