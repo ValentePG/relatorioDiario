@@ -442,3 +442,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **19/05/25: Tailwind ta me fazendo ter vontade de virar front-end, infelizmente sou péssimo, por enquanto, mas sigo os estudos, além disso implementei o endpoint de autenticação no projeto atual, falta organizar algumas coisas por que eu costumo fazer funcionar e dps organizo mesmo então ainda ta uma bagunça.**
 
 **20/05/25: Hoje continuei estudando tailwind, refatorei o módulo de segurança, porém ainda ta uma bagunça.**
+
+**21/05/25: Hoje refatorei novamente o módulo de segurança e organizei a bagunça, agora eu preciso adicionar algumas validações e ta pronto.**
+
