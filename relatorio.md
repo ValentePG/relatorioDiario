@@ -445,3 +445,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **21/05/25: Hoje refatorei novamente o módulo de segurança e organizei a bagunça, agora eu preciso adicionar algumas validações e ta pronto.**
 
+**22/05/25: Voltei a estudar a documentação das apis do google, estou incomodado com um 403 que da no console antes mesmo de autenticar no google, preciso resolver isso dai, além disso terminei o curso de tailwindcss, deu pra aprender bastante, agora vou utiliza-lo apenas como consulta, além da doc claro.**
+
