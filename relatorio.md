@@ -450,3 +450,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **23/05/25: Hoje pratiquei um pouco do tailwind criando um layout do curso.**
 
 **24/05/25: Terminei o responsivo da primeira parte do website do curso.**
+
+**27/05/25: Hoje dei continuidade ao projeto, fazendo a parte de acomodações.**
+
