@@ -454,3 +454,5 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **27/05/25: Hoje dei continuidade ao projeto, fazendo a parte de acomodações.**
 
 **29/05/25: Reorganizei minha rotina e dei continuidade a interface.**
+
+**30/05/25: Interface finalizada, agora ja consigo criar interfaces de maneira mais "fácil", oque era o objetivo desde o começo. Agora eu posso voltar pro meu java.**
