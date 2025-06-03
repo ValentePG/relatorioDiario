@@ -456,3 +456,6 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 **29/05/25: Reorganizei minha rotina e dei continuidade a interface.**
 
 **30/05/25: Interface finalizada, agora ja consigo criar interfaces de maneira mais "fácil", oque era o objetivo desde o começo. Agora eu posso voltar pro meu java.**
+
+**03/05/25: 3 dias sem relatório... é um momento conturbado, mas não fiquei parado esses dias, terminei a interface que estava fazendo com o curso de tailwind jaja eu subo pro github, agr eu tenho uma matéria de redes pra estudar em menos de 5 dias :), aos poucos vou colocar tudo no seu devido lugar.**
+
