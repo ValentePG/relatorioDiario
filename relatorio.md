@@ -461,4 +461,4 @@ Acabei de criar o repositório, vou tentar uma abordagem um pouco diferente, uti
 
 **09/05/25: Well, terminei o curso de rede aos 45 do segundo tempo, aprendi muita coisa graças a Deus, mas fiquei alguns dias sem codar, devo estar enferrujado, hoje vo voltar pro meu javinha e reiniciar ou iniciar algum projeto.**
 
-
+**25/05/25: Voltei, não estava parado, fiz bastante coisa nesse meio tempo, agora irei voltar a fazer meus relatórios, hoje eu voltei a estudar o curso de spring security.**
